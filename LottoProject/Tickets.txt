@@ -1,0 +1,4 @@
+Ticket{playerName=Barry, playerAddress=Dundalk, playerPhNum=0838888115, lottoNums=[1, 14, 21, 29]}
+Ticket{playerName=Adam, playerAddress=12 hill ave dundalk, playerPhNum=0879021323, lottoNums=[3, 11, 14, 20]}
+Ticket{playerName=Carly, playerAddress=14 groove Dublin, playerPhNum=0863216585, lottoNums=[3, 12, 14, 20]}
+Ticket{playerName=Stephen, playerAddress=7 rock road Scotland, playerPhNum=+4429115555, lottoNums=[3, 11, 14, 27]}
